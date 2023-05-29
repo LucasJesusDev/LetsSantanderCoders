@@ -1,3 +1,7 @@
+package Animais;
+
+import Animais.Cachorro;
+
 public class Main {
     public static void main(String[] args) {
 
